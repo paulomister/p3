@@ -1,4 +1,6 @@
+Aqui está o **manual de instalação** formatado de maneira simples e pronta para ser copiado e colado em um arquivo `.txt`. O nome da aplicação foi alterado para **"Corretor de Scripts"**.
 
+---
 
 # Manual de Instalação: Aplicação Corretor de Scripts
 
@@ -164,3 +166,10 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas no s
   npm start
   ```
 
+---
+
+Esse manual está pronto para ser copiado e colado em um arquivo `.txt`. Se precisar de mais ajustes ou detalhes, é só avisar! 😊
+
+--- 
+
+Agora é só copiar e colar em um arquivo `.txt` e usar conforme necessário! 😊
