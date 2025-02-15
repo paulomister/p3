@@ -67,7 +67,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas no s
      ```bash
      npm start
      ```
-   - O front-end estará disponível em `http://localhost:3001`.
+   - O front-end estará disponível em `http://localhost:3000`.
 
 ---
 
