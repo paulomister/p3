@@ -1,4 +1,4 @@
-Nome do Projeto
+Nome do Projeto: SISTEMA DE CORREÇÃO DE SCRIPTS (DEBUGBOX)
 Autores:
 Bianca Milena Da Silva Laranjeira,
 Jamilly Vitória Ferreira Barbosa,
@@ -16,7 +16,7 @@ Versão:
 1.0
 
 Descrição do Projeto
-Este projeto foi desenvolvido como parte da disciplina "Projeto e Desenvolvimento de Software" do curso de Engenharia da Computação na Universidade Federal do Maranhão (UFMA), sob a orientação do Professor Doutor Thales Levi Azevedo Valente. O objetivo principal é [inserir breve descrição do propósito do projeto].
+Este projeto foi desenvolvido como parte da disciplina "Projeto e Desenvolvimento de Software" do curso de Engenharia da Computação na Universidade Federal do Maranhão (UFMA), sob a orientação do Professor Doutor Thales Levi Azevedo Valente.
 
 Agradecimentos
 Agradecemos à Universidade Federal do Maranhão (UFMA), ao Professor Doutor Thales Levi Azevedo Valente e aos nossos colegas de curso pelo apoio e contribuições durante o desenvolvimento deste projeto.
