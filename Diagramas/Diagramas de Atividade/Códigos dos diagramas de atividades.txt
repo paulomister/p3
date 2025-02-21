@@ -1,0 +1,171 @@
+﻿Link da ferramenta utilizada:
+https://www.planttext.com/
+
+
+Código diagrama de atividade de login: 
+
+
+@startuml
+start
+
+
+:Informar credenciais;
+:Validar credenciais;
+if (Credenciais válidas?) then (sim)
+    :Acesso concedido;
+    stop
+else (não)
+    :Exibir erro de login;
+    :Tentar novamente;
+    :Voltar para a tela de login;
+endif
+
+
+@enduml
+
+
+
+
+Código do diagrama de atividade de cadastro:
+
+
+@startuml
+start
+
+
+:Escolher tipo de usuário (Professor ou Aluno);
+:Preencher dados do usuário;
+:Validar dados;
+if (Dados válidos?) then (sim)
+    :Cadastro concluído;
+    stop
+else (não)
+    :Exibir erro de cadastro;
+    :Tentar novamente;
+endif
+
+
+@enduml
+
+
+
+
+Código do diagrama de atividade do professor:
+
+
+|Professor|
+start
+:Selecionar Turma;
+:Visualizar Desempenho da Turma;
+:Visualizar Painel de Dúvidas;
+:Filtrar por Turma;
+:Selecionar Aluno;
+:Responder Dúvida;
+:Anexar Materiais de Apoio;
+:Enviar para o Aluno;
+
+
+|Aluno|
+:Receber Resposta;
+:Receber Materiais de Apoio;
+:Verificar Entendimento;
+if (Entendimento Insuficiente?) then (Sim)
+  :Aguardar Próximo Feedback;
+else (Não)
+  :Confirmar Correção;
+endif
+stop
+@enduml
+
+
+
+
+Código do diagrama de atividade do aluno:
+
+
+@startuml
+start
+
+
+:Inserir código;
+:Submeter para a correção;
+:Visualizar resposta;
+
+
+if (Valida correção?) then (sim)
+  :Aceitar correção;
+else (não)
+  :Solicitar reformulação da correção;
+endif
+
+
+stop
+@enduml
+
+
+
+
+Código do diagrama de atividade entre sistemas:
+
+
+@startuml
+start
+
+
+partition Aluno {
+    :Submeter código;
+   
+   
+}
+
+
+partition API {
+    :Analisar código;
+   
+}
+
+
+partition Sistema Interno {
+    :Receber resposta;
+    :Exibir resposta;
+  
+}
+:Visualizar resposta;
+stop
+
+
+@enduml
+
+
+
+
+Código do diagrama de atividade de correção:
+
+
+@startuml
+start
+
+
+:Receber solicitação de correção;
+:Chamar API para correção;
+:Receber validação do aluno;
+if (correção válida?) then (sim)
+    :Finalizar execução;
+    stop
+else (não)
+    :Corrigir novamente;
+    :Contar número de correções inválidas;
+    if (Número de correções inválidas maior que 4) then (não)
+        :Repetir correção;
+        -> :Chamar API para correção;
+    else (sim)
+        :Encaminhar prompt ao professor;
+        :Armazenar no painel de dúvidas;
+        :Enviar para professor;
+        :Receber notificação de dúvida;
+        stop
+    endif
+endif
+
+
+@enduml
