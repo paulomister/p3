@@ -1,12 +1,31 @@
-Reconhecimentos e Direitos Autorais
-@Autor: Bianca Milena Da Silva Laranjeira, Jamilly Vitória Ferreira Barbosa, Marcos Vinícius Jansem Oliveira, Paulo Arthur Lima Brito e Yhago Luis Maciel De Matos
-@Contato: jamilly.barbosa@discente.ufma.br
-@Data da última versão: 28/01/2025
-@Versão: 1.0
-@Agradecimentos:Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente e Colegas de curso.
-Copyright/License
-Este material é resultado de um trabalho acadêmico para a disciplina "PROJETO E DESENVOLVIMENTO DE SOFTWARE", sob a orientação do professor Dr. THALES LEVI AZEVEDO VALENTE, semestre letivo 2024.2, curso Engenharia da Computação, na Universidade Federal do Maranhão (UFMA). Todo o material sob esta licença é software livre: pode ser usado para fins acadêmicos e comerciais sem nenhum custo. Não há papelada, nem royalties, nem restrições de "copyleft" do tipo GNU. Ele é licenciado sob os termos da Licença MIT, conforme descrito abaixo, e, portanto, é compatível com a GPL e também se qualifica como software de código aberto. É de domínio público. Os detalhes legais estão abaixo. O espírito desta licença é que você é livre para usar este material para qualquer finalidade, sem nenhum custo. O único requisito é que, se você usá-los, nos dê crédito.
-Licenciado sob a Licença MIT. Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar no Software sem restrição, incluindo sem limitação os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e permitir pessoas a quem o Software é fornecido a fazê-lo, sujeito às seguintes condições:
-Este aviso de direitos autorais e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
-O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO INFRINGÊNCIA. EM NENHUM CASO OS AUTORES OU DETENTORES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, TORT OU OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
-Para mais informações sobre a Licença MIT: https://opensource.org/licenses/MIT
+Nome do Projeto
+Autores:
+Bianca Milena Da Silva Laranjeira,
+Jamilly Vitória Ferreira Barbosa,
+Marcos Vinícius Jansem Oliveira,
+Paulo Arthur Lima Brito,
+Yhago Luis Maciel De Matos
+
+Contato:
+jamilly.barbosa@discente.ufma.br
+
+Última Versão:
+28/01/2025
+
+Versão:
+1.0
+
+Descrição do Projeto
+Este projeto foi desenvolvido como parte da disciplina "Projeto e Desenvolvimento de Software" do curso de Engenharia da Computação na Universidade Federal do Maranhão (UFMA), sob a orientação do Professor Doutor Thales Levi Azevedo Valente. O objetivo principal é [inserir breve descrição do propósito do projeto].
+
+Agradecimentos
+Agradecemos à Universidade Federal do Maranhão (UFMA), ao Professor Doutor Thales Levi Azevedo Valente e aos nossos colegas de curso pelo apoio e contribuições durante o desenvolvimento deste projeto.
+
+Licença
+Este projeto é licenciado sob a Licença MIT. Isso significa que você é livre para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software, desde que inclua o aviso de direitos autorais e o aviso de permissão em todas as cópias ou partes substanciais do software.
+
+Detalhes da Licença MIT
+O software é fornecido "COMO ESTÁ", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando às garantias de comercialização, adequação a um determinado fim e não infração. Em nenhum caso os autores ou detentores de direitos autorais serão responsáveis por qualquer reclamação, danos ou outra responsabilidade, seja em ação de contrato, tort ou outra forma, decorrente de, fora de ou em conexão com o software ou o uso ou outras negociações no software.
+
+Para mais informações sobre a Licença MIT, visite: https://opensource.org/licenses/MIT.
+
