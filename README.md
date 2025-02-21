@@ -15,10 +15,8 @@ jamilly.barbosa@discente.ufma.br
 Versão:
 1.0
 
-Descrição do Projeto
 Este projeto foi desenvolvido como parte da disciplina "Projeto e Desenvolvimento de Software" do curso de Engenharia da Computação na Universidade Federal do Maranhão (UFMA), sob a orientação do Professor Doutor Thales Levi Azevedo Valente.
 
-Agradecimentos
 Agradecemos à Universidade Federal do Maranhão (UFMA), ao Professor Doutor Thales Levi Azevedo Valente e aos nossos colegas de curso pelo apoio e contribuições durante o desenvolvimento deste projeto.
 
 Este projeto é licenciado sob a Licença MIT. Isso significa que você é livre para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software, desde que inclua o aviso de direitos autorais e o aviso de permissão em todas as cópias ou partes substanciais do software.
