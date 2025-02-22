@@ -7,6 +7,8 @@ Contato:
 
 jamilly.barbosa@discente.ufma.br
 
+marcos.jansem@discente.ufma.br
+
 Última Versão:
 
 28/01/2025
