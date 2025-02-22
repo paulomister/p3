@@ -1,4 +1,4 @@
-Nome do Projeto: SISTEMA DE CORREÇÃO DE SCRIPTS (DEBUGBOX)
+Nome do Projeto: Sistema de Correção de Script (DEBUGBOX)
 
 Autores:
 Bianca Milena Da Silva Laranjeira,Jamilly Vitória Ferreira Barbosa, Marcos Vinícius Jansem Oliveira, Paulo Arthur Lima Brito e Yhago Luis Maciel De Matos,
