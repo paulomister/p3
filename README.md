@@ -1,18 +1,18 @@
 Nome do Projeto: SISTEMA DE CORREÇÃO DE SCRIPTS (DEBUGBOX)
+
 Autores:
-Bianca Milena Da Silva Laranjeira,
-Jamilly Vitória Ferreira Barbosa,
-Marcos Vinícius Jansem Oliveira,
-Paulo Arthur Lima Brito,
-Yhago Luis Maciel De Matos
+Bianca Milena Da Silva Laranjeira,Jamilly Vitória Ferreira Barbosa, Marcos Vinícius Jansem Oliveira, Paulo Arthur Lima Brito e Yhago Luis Maciel De Matos,
 
 Contato:
+
 jamilly.barbosa@discente.ufma.br
 
 Última Versão:
+
 28/01/2025
 
 Versão:
+
 1.0
 
 Este projeto foi desenvolvido como parte da disciplina "Projeto e Desenvolvimento de Software" do curso de Engenharia da Computação na Universidade Federal do Maranhão (UFMA), sob a orientação do Professor Doutor Thales Levi Azevedo Valente.
